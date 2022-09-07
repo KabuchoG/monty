@@ -1,2 +1,2 @@
 # monty
-A colaborative project by Serena Muriuki and Goerge Kabucho
+A colaborative project by Serena Muriuki and Goerge Kabucho.
